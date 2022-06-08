@@ -7,7 +7,7 @@ Free "public domain" resources for READING comics
 > It bring back the old charms of the good' old classic cartoon that we saw when we were young.  
 > For everyone.  
 > "**Wuffle** is different from other wolves. While most wolves are sneaky and tricky, Wuffle is innocent, naive, and kind-hearted, always willing to help people without expecting anything in return."  
-> Wuffle comics uses [**"CC0 1.0 Universal (CC0 1.0)"** or **"NO COPYRIGHT"** policy](/wuffle/license) : you can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.  
+> Wuffle comics uses [**"CC0 1.0 Universal (CC0 1.0)"** or **"NO COPYRIGHT"** policy](/wuffle/license.md) : you can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.  
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
